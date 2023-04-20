@@ -14,7 +14,7 @@ summary: Erfahren Sie, welche Neuerungen beim Managen von E-Series Systemen in B
 
 
 [role="lead"]
-Erfahren Sie alles Neuerungen beim Management von E-Series Systemen in BlueXP (ehemals Cloud Manager).
+Erfahren Sie, welche Neuerungen beim Managen von E-Series Systemen in BlueXP sind.
 
 
 

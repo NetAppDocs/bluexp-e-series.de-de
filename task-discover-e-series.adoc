@@ -18,7 +18,7 @@ BlueXP kann die E-Series Storage-Systeme in Ihrer On-Premises-Umgebung entdecken
 .Was Sie benötigen
 * Ein Connector, der bei einem Cloud-Provider oder vor Ort installiert wird und die Netzwerkverbindung zu dem E-Series Storage-System bietet
 +
-https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Erfahren Sie mehr über Anschlüsse und wie Sie einen Anschluss erstellen"^]
+https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Erfahren Sie mehr über Anschlüsse und wie Sie einen Anschluss erstellen"^]
 
 * Der Domain-Name oder die IP-Adresse des Storage System Controllers.
 * Anmeldedaten des Administrators für das System

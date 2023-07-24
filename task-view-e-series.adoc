@@ -16,7 +16,8 @@ summary: Nachdem Sie die E-Series Systeme ermittelt haben, können Sie Details z
 Nachdem Sie die E-Series Systeme ermittelt haben, können Sie Details zur Kapazitätsverteilung, zu Volumes und Hosts anzeigen.
 
 .Schritte
-. Doppelklicken Sie auf dem Bildschirm auf den Namen der E-Series Arbeitsumgebung, die Sie anzeigen möchten.
+. Wählen Sie im Navigationsmenü die Option *Storage > Canvas* aus.
+. Wählen Sie auf der Seite Bildschirm die Arbeitsumgebung E-Series aus, die Sie anzeigen möchten.
 . Wählen Sie eine der Registerkarten aus, um weitere Details zu Ihrem E-Series System anzuzeigen:
 +
 ** *Überblick*: Eine detaillierte Ansicht der Kapazitätsverteilung (zugewiesene, freie und nicht zugewiesene Kapazität) des Systems, der Anzahl der Volumes, Hosts und mehr.

@@ -13,6 +13,7 @@ summary: Nachdem Sie die E-Series Systeme ermittelt haben, können Sie Details z
 :imagesdir: ./media/
 
 
+[role="lead"]
 Nachdem Sie die E-Series Systeme ermittelt haben, können Sie Details zur Kapazitätsverteilung, zu Volumes und Hosts anzeigen.
 
 .Schritte

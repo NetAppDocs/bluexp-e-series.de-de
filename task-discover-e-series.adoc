@@ -13,6 +13,7 @@ summary: BlueXP kann die E-Series Storage-Systeme in Ihrer On-Premises-Umgebung 
 :imagesdir: ./media/
 
 
+[role="lead"]
 BlueXP kann die E-Series Storage-Systeme in Ihrer On-Premises-Umgebung entdecken. Wenn Sie BlueXP Systeme der E-Series hinzufügen, erhalten Sie eine vollständige Ansicht der Daten in Ihrer Hybrid-Multi-Cloud.
 
 .Was Sie benötigen

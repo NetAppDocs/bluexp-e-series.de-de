@@ -24,4 +24,4 @@ Erfahren Sie, welche Neuerungen beim Managen von E-Series Systemen in BlueXP sin
 
 === Unterstützung der E-Series
 
-Sie können Ihre E-Series Storage-Systeme jetzt direkt von BlueXP entdecken. Die Entdeckung von E-Series Systemen eröffnet Ihnen eine vollständige Ansicht der Daten in Ihrer Hybrid-Multi-Cloud.
+Ihre E-Series Systeme können jetzt direkt aus BlueXP heraus erkannt werden. Die Entdeckung von E-Series Systemen eröffnet Ihnen eine vollständige Ansicht der Daten in Ihrer Hybrid-Multi-Cloud.

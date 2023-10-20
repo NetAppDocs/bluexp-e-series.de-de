@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: task-discover-e-series.html 
 keywords: e-series, cluster, discover, manage, discovering, discover e-series 
-summary: BlueXP kann die E-Series Storage-Systeme in Ihrer On-Premises-Umgebung entdecken. Wenn Sie BlueXP Systeme der E-Series hinzufügen, erhalten Sie eine vollständige Ansicht der Daten in Ihrer Hybrid-Multi-Cloud. 
+summary: BlueXP kann die E-Series Systeme in Ihrer lokalen Umgebung erkennen. Wenn Sie BlueXP Systeme der E-Series hinzufügen, erhalten Sie eine vollständige Ansicht der Daten in Ihrer Hybrid-Multi-Cloud. 
 ---
-= E-Series Storage-Systeme entdecken
+= E-Series Systeme kennenlernen
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -14,10 +14,12 @@ summary: BlueXP kann die E-Series Storage-Systeme in Ihrer On-Premises-Umgebung 
 
 
 [role="lead"]
-BlueXP kann die E-Series Storage-Systeme in Ihrer On-Premises-Umgebung entdecken. Wenn Sie BlueXP Systeme der E-Series hinzufügen, erhalten Sie eine vollständige Ansicht der Daten in Ihrer Hybrid-Multi-Cloud.
+BlueXP kann die E-Series Systeme in Ihrer lokalen Umgebung erkennen. Wenn Sie BlueXP Systeme der E-Series hinzufügen, erhalten Sie eine vollständige Ansicht der Daten in Ihrer Hybrid-Multi-Cloud.
 
-.Was Sie benötigen
-* Ein Connector, der bei einem Cloud-Provider oder vor Ort installiert wird und die Netzwerkverbindung zu dem E-Series Storage-System bietet
+.Bevor Sie beginnen
+Sie benötigen Folgendes:
+
+* Connector bei einem Cloud-Provider oder bei Ihnen vor Ort mit Netzwerkkonnektivität zum E-Series System installiert.
 +
 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Erfahren Sie mehr über Anschlüsse und wie Sie einen Anschluss erstellen"^]
 
@@ -40,6 +42,6 @@ image:screenshot-cluster-details.png["Ein Screenshot, der die Seite „E-Series 
 
 
 .Ergebnis
-BlueXP erkennt das E-Series Storage-System und fügt es als Arbeitsumgebung auf dem Canvas hinzu.
+BlueXP erkennt das E-Series System und fügt es als Arbeitsumgebung auf dem Canvas hinzu.
 
 image:screenshot-canvas.png["Ein Screenshot, der eine E-Series Arbeitsumgebung auf dem BlueXP Canvas zeigt."]

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+    
+    
+  
+
+  
+  
+    <url>
+      <loc>https://docs.netapp.com/de-de/bluexp-e-series/</loc>
+      
+      <lastmod>2023-11-15T17:48:03+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/de-de/bluexp-e-series/legal-notices.html</loc>
+      
+      <lastmod>2023-08-09T13:46:43+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/de-de/bluexp-e-series//search.html</loc>
+      
+      <lastmod>2023-11-15T17:48:18+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/de-de/bluexp-e-series/task-discover-e-series.html</loc>
+      
+      <lastmod>2023-10-20T19:36:31+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/de-de/bluexp-e-series/task-get-help.html</loc>
+      
+      <lastmod>2023-10-03T18:39:27+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/de-de/bluexp-e-series/task-remove-e-series.html</loc>
+      
+      <lastmod>2023-07-24T21:34:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/de-de/bluexp-e-series/task-support-registration.html</loc>
+      
+      <lastmod>2023-10-03T18:39:27+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/de-de/bluexp-e-series/task-view-e-series.html</loc>
+      
+      <lastmod>2023-08-09T13:46:43+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/de-de/bluexp-e-series/whats-new.html</loc>
+      
+      <lastmod>2023-10-20T19:36:31+00:00</lastmod>
+      
+    </url>
+  
+
+  
+  
+</urlset>

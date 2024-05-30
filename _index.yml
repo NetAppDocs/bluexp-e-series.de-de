@@ -1,0 +1,31 @@
+---
+indexpage:
+  title: Management der E-Series mit BlueXP
+  summary: Eine vollständige Ansicht Ihrer Daten in Ihrer gesamten Hybrid-Multi-Cloud
+    erhalten Sie durch E-Series Systeme von BlueXP.
+  keywords: bluexp-family, documentation, e-series, cloud
+  lead: Eine vollständige Ansicht Ihrer Daten in Ihrer gesamten Hybrid-Multi-Cloud
+    erhalten Sie durch E-Series Systeme von BlueXP.
+  tiles:
+  - title: Los geht's
+    links:
+    - title: E-Series Systeme kennenlernen
+      url: "/task-discover-e-series.html"
+  - title: Management von E-Series Systemen
+    links:
+    - title: Sie sehen Ihre E-Series Systeme an
+      url: "/task-view-e-series.html"
+    - title: Entfernen Sie eine Arbeitsumgebung
+      url: "/task-remove-e-series.html"
+  - title: Weiterführende Links
+    links:
+    - title: E-Series Dokumentation für Management außerhalb von BlueXP
+      url: https://docs.netapp.com/us-en/e-series-family/
+  - title: Blogs Community
+    links:
+    - title: NetApp Community
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: BlueXP-Blog
+      url: https://cloud.netapp.com/blog
+    - title: Cloud-Webinare
+      url: https://cloud.netapp.com/events
